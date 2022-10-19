@@ -2,4 +2,4 @@
 
 echo "This is Normal Text"
 
-echo -e "\e[31mRedtext\e"
+echo -e "\e[31mThis is Red text\e"
