@@ -1,4 +1,4 @@
-#! /usr/bin/bash bash
+#!/usr/bin/env bash
 
 ls -l
 
