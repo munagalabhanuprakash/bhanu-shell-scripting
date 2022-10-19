@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="Added testfile4.txt">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testfile6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testfile6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell-scripts-practice/01-sample.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell-scripts-practice/01-sample.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666175141110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added testfile4.txt">
+      <created>1666176496805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666176496805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added testfile4.txt">
+      <created>1666176521686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666176521686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
