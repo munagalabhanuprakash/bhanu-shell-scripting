@@ -184,7 +184,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666257007047</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="added sample script in 01-sample.sh">
+      <created>1666257201423</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1666257201424</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added sample script in 01-sample.sh">
+      <created>1666257283837</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1666257283838</updated>
+    </task>
+    <task id="LOCAL-00024" summary="added sample script in 01-sample.sh">
+      <created>1666257444617</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1666257444617</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
