@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="added sample script in 01-sample.sh">
-      <change beforePath="$PROJECT_DIR$/shell-scripts-practice/09-read-before-execution.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell-scripts-practice/read-before-execution-using-special-variables.sh" afterDir="false" />
-    </list>
+    <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="echo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666260496098</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="echo">
+      <created>1666261024120</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666261024120</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +265,7 @@
     <MESSAGE value="Added a Test File 1 with line 1" />
     <MESSAGE value="Added testfile4.txt" />
     <MESSAGE value="added sample script in 01-sample.sh" />
-    <option name="LAST_COMMIT_MESSAGE" value="added sample script in 01-sample.sh" />
+    <MESSAGE value="echo" />
+    <option name="LAST_COMMIT_MESSAGE" value="echo" />
   </component>
 </project>
