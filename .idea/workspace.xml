@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="added sample script in 01-sample.sh">
-      <change afterPath="$PROJECT_DIR$/shell-scripts-practice/08-read-while-execution.sh" afterDir="false" />
-    </list>
+    <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="added sample script in 01-sample.sh" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +219,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666257606259</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="added sample script in 01-sample.sh">
+      <created>1666260215916</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1666260215916</updated>
+    </task>
+    <task id="LOCAL-00028" summary="added sample script in 01-sample.sh">
+      <created>1666260269924</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1666260269925</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
