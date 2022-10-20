@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d2aa96-374b-42a6-a2f0-22cf2547de83" name="Changes" comment="added sample script in 01-sample.sh">
-      <change afterPath="$PROJECT_DIR$/shell-scripts-practice/06-static-variables.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shell-scripts-practice/07-dynamic-variables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell-scripts-practice/07-dynamic-variables.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +158,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666179476279</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added sample script in 01-sample.sh">
+      <created>1666256696882</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1666256696882</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added sample script in 01-sample.sh">
+      <created>1666256878929</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1666256878929</updated>
+    </task>
+    <task id="LOCAL-00020" summary="added sample script in 01-sample.sh">
+      <created>1666256947128</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1666256947128</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

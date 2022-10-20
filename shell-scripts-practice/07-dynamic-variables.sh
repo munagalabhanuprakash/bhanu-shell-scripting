@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-Time = &(date)
+Time = $(date)
 
 echo Now the time is $(Time)
 
