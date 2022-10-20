@@ -2,5 +2,5 @@
 
 Time=$(date)
 
-echo Now the time is $(Time)
+echo Now the time is $Time
 
