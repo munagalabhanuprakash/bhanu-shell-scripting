@@ -4,4 +4,4 @@
 
 # echo fname=$1
 # echo lname=$2
-echo $1 $2
+echo Your fullname is $1 $2
