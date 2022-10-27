@@ -3,7 +3,7 @@
 NAME=$(id -u)
 if [ $NAME != 0 ]
 then
-  echo You are Normal User
+  echo You are NORMAL USER
 else
-  echo Your are Root User
+  echo Your are ROOT USER
 fi
